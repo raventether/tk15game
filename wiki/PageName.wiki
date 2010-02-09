@@ -1,0 +1,8 @@
+#labels Featured
+
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+__________________________________________________
+=Hey everyone!= I know wat this game have *BIG BAG*. simple sayin' if 14 and 15 u cannot change their places/ it mean u never do that/ its impossible/ but in my code (help me with *svn* or *merc* somebody) numbers mixed by *random*/ it's TOTALLY wrong/ thats all wat i wanna say today goodbye ))
