@@ -1,8 +1,10 @@
 #labels Featured
 
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+=Hey happy coders!= 
 
-__________________________________________________
-=Hey everyone!= I know wat this game have *BIG BAG*. simple sayin' if 14 and 15 u cannot change their places/ it mean u never do that/ its impossible/ but in my code (help me with *svn* or *merc* somebody) numbers mixed by *random*/ it's TOTALLY wrong/ thats all wat i wanna say today goodbye ))
+I know what my _tk15game_ have *BIG BAG* )) 
+Simple sayin' if you cannot change places of 14 & 15, it mean you never do that. 
+It's impossible/ 
+In my code (help me with *Subversion* or *Mercurial* somebody for create nice repository) numbers mixed by *random*. 
+It's TOTALLY wrong. 
+That's all what I wanna say today, goodbye.
